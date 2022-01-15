@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.Location-Info{
+    background-color: rgba(255, 255, 255, 0.261);
+    border-radius: 0rem 0rem  2rem 2rem;
+    padding: 0.5rem;
+    color: #000;
+    border: 2px solid #fff;
+    margin-bottom: 25px;
+}
+.title-info{
+    text-align: center;
+}
+.info-container{
+    display: flex;
+    justify-content: space-around;
+    margin: 25px auto;
+    
+}
+span{
+    font-size: 15px;
+}

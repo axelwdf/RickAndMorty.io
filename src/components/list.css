@@ -1,0 +1,5 @@
+.Resident-List{
+    display: grid;
+    gap: .5rem;
+    grid-template-columns: repeat(2, 1fr);
+}

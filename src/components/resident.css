@@ -1,0 +1,27 @@
+.Resident-Info{
+    background-color: rgba(255, 255, 255, 0.261);
+    width: 50%;
+    border: 2px solid #fff;
+    border-radius: 0.5rem;
+    color: #000;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 25px auto;
+    padding: 10px;
+    transition: 1.5s;
+}
+.Resident-Info:hover{
+    background-color: #000;
+    color: #fff;
+}
+.img{
+    width: 70%;
+    margin: 5px auto;
+    border-radius: 50%;
+}
+p{
+    font-size: 12px;
+}
+
+
+
