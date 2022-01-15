@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import './resident.css'
 import axios from "axios";
 import React from "react";
@@ -66,5 +67,17 @@ const ResidentInfo = ({list}) => {
         </div>
     );
 }
+=======
+import React from 'react';
+// recibira la URL por props la consumira y mostrara la sig informacio
+// name, img, lugar de origen, episodios y status: vivo, muerto, etc.
+const ResidentInfo = () => {
+    return (
+        <div className='residentInf'>
+            
+        </div>
+    );
+};
+>>>>>>> 80dc882841efe21781768dbee15ccf10ddac3e2c
 
 export default ResidentInfo;
